@@ -3,7 +3,7 @@ from . import metrics
 from . import ops
 from . import render
 from . import utils
-from . import visualize
+#from . import visualize
 
 try:
     from .version import __version__  # noqa: F401
